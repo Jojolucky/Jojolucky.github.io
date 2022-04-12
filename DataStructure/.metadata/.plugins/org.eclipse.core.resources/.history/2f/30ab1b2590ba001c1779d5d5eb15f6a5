@@ -1,0 +1,11 @@
+package Queue_Array;
+
+// 队的顺序为  先进先出
+public class ArrayQueue {
+	private int maxSize; // 队的大小
+	private int front; //队的头部元素
+	private int rare; // 队的尾部元素
+	
+	
+	
+}
