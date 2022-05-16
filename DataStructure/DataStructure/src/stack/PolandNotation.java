@@ -1,6 +1,5 @@
 package stack;
 
-import java.nio.channels.NonReadableChannelException;
 import java.nio.file.StandardWatchEventKinds;
 import java.util.ArrayList;
 import java.util.List;
@@ -8,9 +7,6 @@ import java.util.Stack;
 
 import javax.management.RuntimeErrorException;
 
-import org.graalvm.compiler.nodes.calc.ShiftNode;
-
-import com.apple.laf.AquaImageFactory.SlicedImageControl;
 
 public class PolandNotation {
 
